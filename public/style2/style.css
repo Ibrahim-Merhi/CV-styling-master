@@ -37,7 +37,7 @@ header figure {
   margin-right: 25%;
   position: absolute;
   right: 0;
-  transform: rotate(-20deg);
+  transform: rotate(20deg);
 }
 
 figure img {
