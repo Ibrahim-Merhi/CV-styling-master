@@ -172,6 +172,7 @@ dd{
 .experience-location::after{
   content: "on";
 }
+hgroup{color: red;}
   
 @media only screen and (max-width: 650px){
 
